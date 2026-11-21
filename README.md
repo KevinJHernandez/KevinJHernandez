@@ -82,14 +82,17 @@ También disfruto los videojuegos y crear soluciones útiles con tecnología.
 <tr>
 <td width="33%" height="160" align="center" valign="middle"><a href="https://www.credly.com/badges/7cf9c0e5-a354-4272-9bb3-0b401c7ea449/linked_in_profile"><img src="assets/courses/ai-literacy.png" height="130" alt="AI Literacy" /></a></td>
 <td width="33%" height="160" align="center" valign="middle"><a href="https://capacitateparaelempleo.org/verifica/0f2c6a05-0c04-4aa5-831a-b9cfd1683c32/fafba92d-f42c-46db-bef1-d9d20179a8ac"><img src="assets/courses/introduccion-programacion.png" height="130" alt="Introducción a la programación" /></a></td>
+<td width="33%" height="160" align="center" valign="middle"><a href="https://capacitateparaelempleo.org/verifica/0f2c6a05-0c04-4aa5-831a-b9cfd1683c32/fd648475-f022-46e5-9647-6083cb413963"><img src="https://fsvc.capacitateparaelempleo.org/CapacitateFS/coursesImages/7d65b83a-d216-44f3-a77c-bb10b925381b.png" height="130" alt="Programador (orientado a objetos)" /></a></td>
 </tr>
 <tr>
 <td width="33%" height="70" align="center" valign="middle"><strong>AI Literacy</strong><br /><sub>IBM SkillsBuild</sub></td>
 <td width="33%" height="70" align="center" valign="middle"><strong>Introducción a la programación</strong><br /><sub>Capacítate para el Empleo · 28 horas</sub></td>
+<td width="33%" height="70" align="center" valign="middle"><strong>Programador (orientado a objetos)</strong><br /><sub>Capacítate para el Empleo · 82 horas</sub></td>
 </tr>
 <tr>
 <td width="33%" align="center"><a href="https://www.credly.com/badges/7cf9c0e5-a354-4272-9bb3-0b401c7ea449/linked_in_profile"><img src="https://img.shields.io/badge/Ver_certificado-14B8A6?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Ver certificado de AI Literacy" /></a></td>
 <td width="33%" align="center"><a href="https://capacitateparaelempleo.org/verifica/0f2c6a05-0c04-4aa5-831a-b9cfd1683c32/fafba92d-f42c-46db-bef1-d9d20179a8ac"><img src="https://img.shields.io/badge/Ver_certificado-0EA5A4?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Ver certificado de Introducción a la programación" /></a></td>
+<td width="33%" align="center"><a href="https://capacitateparaelempleo.org/verifica/0f2c6a05-0c04-4aa5-831a-b9cfd1683c32/fd648475-f022-46e5-9647-6083cb413963"><img src="https://img.shields.io/badge/Ver_certificado-19AAA3?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Ver certificado de Programador (orientado a objetos)" /></a></td>
 </tr>
 </table>
 
