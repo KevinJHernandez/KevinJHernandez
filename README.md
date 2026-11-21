@@ -82,7 +82,7 @@ También disfruto los videojuegos y crear soluciones útiles con tecnología.
 <tr>
 <td width="33%" height="160" align="center" valign="middle"><a href="https://www.credly.com/badges/7cf9c0e5-a354-4272-9bb3-0b401c7ea449/linked_in_profile"><img src="assets/courses/ai-literacy.png" height="130" alt="AI Literacy" /></a></td>
 <td width="33%" height="160" align="center" valign="middle"><a href="https://capacitateparaelempleo.org/verifica/0f2c6a05-0c04-4aa5-831a-b9cfd1683c32/fafba92d-f42c-46db-bef1-d9d20179a8ac"><img src="assets/courses/introduccion-programacion.png" height="130" alt="Introducción a la programación" /></a></td>
-<td width="33%" height="160" align="center" valign="middle"><a href="https://capacitateparaelempleo.org/verifica/0f2c6a05-0c04-4aa5-831a-b9cfd1683c32/fd648475-f022-46e5-9647-6083cb413963"><img src="assets/courses/programador-certificado.jpg" height="130" alt="Programador (orientado a objetos)" /></a></td>
+<td width="33%" height="160" align="center" valign="middle"><a href="https://capacitateparaelempleo.org/verifica/0f2c6a05-0c04-4aa5-831a-b9cfd1683c32/fd648475-f022-46e5-9647-6083cb413963"><img src="assets/courses/programador-certificado-completo.jpg" height="130" alt="Programador (orientado a objetos)" /></a></td>
 </tr>
 <tr>
 <td width="33%" height="70" align="center" valign="middle"><strong>AI Literacy</strong><br /><sub>IBM SkillsBuild</sub></td>
